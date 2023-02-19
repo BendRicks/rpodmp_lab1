@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">rpodmp_lab1</string>
+    <string name="counter_str">0</string>
+    <string name="second_view_number">%1d</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="add_note">♂ Add note ♂</string>
+</resources>
